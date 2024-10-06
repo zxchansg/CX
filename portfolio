@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Customer Experience Professional</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #0056b3;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #0056b3;
+        }
+        .contact-info, .skills, .experience, .testimonials {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #0056b3;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header / Hero Section -->
+    <header>
+        <h1>Your Name</h1>
+        <p>Customer Experience Professional</p>
+        <p>"Delivering excellence in customer experience through technology, strategy, and innovation."</p>
+    </header>
+
+    <!-- About Me Section -->
+    <section class="about">
+        <h2>About Me</h2>
+        <p>Welcome! I'm a Customer Experience professional with a passion for technology and innovation. With over a decade of experience, I specialize in creating impactful CX strategies and transforming customer service operations.</p>
+        <p>Currently, I am focused on leveraging digital tools and strategic insights to enhance customer interactions and support business growth. I am seeking new opportunities to drive customer-centric initiatives and contribute to an organization’s success.</p>
+        <!-- Link to resume placeholder -->
+        <p><a href="#" target="_blank">View my full resume</a></p>
+    </section>
+
+    <!-- Skills & Expertise Section -->
+    <section class="skills">
+        <h2>Skills & Expertise</h2>
+        <ul>
+            <li>Customer Success Management</li>
+            <li>Contact Center Operations</li>
+            <li>Digital Transformation</li>
+            <li>Compliance and Audit Support</li>
+            <li>Technical Skills: Qualtrics, Salesforce, Power BI, Excel</li>
+            <li>Professional Strengths: Analytical, Contextual, Harmony</li>
+        </ul>
+    </section>
+
+    <!-- Professional Experience & Projects Section -->
+    <section class="experience">
+        <h2>Professional Experience & Projects</h2>
+        <h3>Project: Digitalization of Customer Surveys at DBS</h3>
+        <p>Implemented customer surveys on the DBS App using Qualtrics, enhancing feedback collection and supporting compliance monitoring.</p>
+        <h3>Project: Service Center Redesign at CPF</h3>
+        <p>Redesigned the Jurong service center, improving customer flow and reducing wait times, leading to increased customer satisfaction.</p>
+        <p>More projects to be added...</p>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <h2>Testimonials</h2>
+        <p>"[Placeholder for testimonial] - Colleague or Manager's Name"</p>
+        <p>"[Placeholder for testimonial] - Client or Team Member's Name"</p>
+        <p>More testimonials to be added...</p>
+    </section>
+
+    <!-- Career Objective Section -->
+    <section class="career-objective">
+        <h2>Career Objective</h2>
+        <p>In the next phase of my career, I am committed to advancing to a senior managerial level where I can leverage my experience in CX strategy and operations. I aim to contribute to an organization by driving customer-centric initiatives and scaling business outcomes over the next 3-5 years.</p>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact-info">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/yourlinkedinprofile" target="_blank">Your LinkedIn Profile</a></p>
+        <!-- Optional social media links -->
+        <p>Twitter: <a href="https://twitter.com/yourtwitter" target="_blank">@yourtwitter</a></p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Your Name - All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
